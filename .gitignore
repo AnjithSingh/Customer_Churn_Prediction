@@ -1,0 +1,20 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Data files (Optional: uncomment if you don't want to upload data)
+# data/raw/*
+# data/processed/*
+
+# Model files
+*.joblib
+*.pkl
+
+# Virtual environment
+venv/
+env/
+.env
+
+# MacOS
+.DS_Store

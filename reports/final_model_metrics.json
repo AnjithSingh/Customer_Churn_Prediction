@@ -1,0 +1,13 @@
+{
+    "Best Params": {
+        "classifier__n_estimators": 100,
+        "classifier__min_samples_split": 5,
+        "classifier__max_depth": 10
+    },
+    "Threshold": 0.33636621468311817,
+    "Accuracy": 0.7771469127040455,
+    "Precision": 0.5597609561752988,
+    "Recall": 0.7513368983957219,
+    "F1": 0.6415525114155252,
+    "ROC-AUC": 0.8523353742023818
+}
