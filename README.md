@@ -118,6 +118,3 @@ streamlit run app/app.py
 - **Observational Data**: Results show correlation, not necessarily causation.
 - **Snapshot Data**: Lacks historical timeline of customer actions prior to churn.
 - **Geographic Limits**: All data is from California, limiting generalizability to other states.
-
-## Author
-Senior Data Scientist
